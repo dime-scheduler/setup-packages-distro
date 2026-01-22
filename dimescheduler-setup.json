@@ -13,7 +13,7 @@
             "hash": "21182a78c5b65df6bf21e68536c8a2f8df51d94d2debda93171f127f272cc340"
         }
     },
-    "extract_dir": "SourceDir\\PFiles\\Dime.Scheduler Setup Package Builder",
+    "extract_dir": "SourceDir/PFiles/Dime.Scheduler Setup Package Builder",
     "bin": "dimescheduler-setuppackagebuilder.exe",
     "shortcuts": [
         [
